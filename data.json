@@ -1,0 +1,52 @@
+{
+  "initialData": [
+    {
+      "id":1,
+      "sic": 1,
+      "name": "Automotive",
+      "checked": false
+    },
+    {
+      "id":2,
+      "sic": 2,
+      "name": "Food",
+      "checked": false
+    },
+    {
+      "id":3,
+      "sic": 3,
+      "name": "Technology",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "sic": 4,
+      "name": "Medicine",
+      "checked": false
+    }
+  ],
+
+  "sic-2": [
+    {
+      "id":21,
+      "sic": 21,
+      "name": "Food 1",
+      "checked": false
+    },
+    {
+      "id":22,
+      "sic": 22,
+      "name": "Food 2",
+      "checked": false
+    }
+  ],
+
+  "sic-21": [
+    {
+      "id":221,
+      "sic": 221,
+      "name": "Food 11",
+      "checked": false
+    }
+  ]
+}
